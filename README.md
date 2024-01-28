@@ -1,2 +1,2 @@
-# repository-template
-Repository template for project
+# Repository Template
+Repository template for personal project.
